@@ -1,6 +1,5 @@
 # ALLORA
 ALLORA Blockchain Project
-![666b297b8d80555ff9a25256_allora-points-phase-2](https://github.com/0xmoei/allora-testnet/assets/90371338/6298f73a-3c58-40a6-9d92-725f36456901)
 
 <h1 align="center">Allora Network Point Program</h1>
 
